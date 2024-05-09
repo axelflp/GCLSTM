@@ -1,2 +1,2 @@
 # GCLSTM
-Cuantificación de incertidumbre
+Prediccion en series de tiempo
