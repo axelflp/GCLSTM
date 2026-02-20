@@ -7,3 +7,5 @@ Implementation of the GCLSTM architecture proposed in the paper [Spatio-temporal
     Source: Source: Simeunovic et al., 2021 — Spatio-temporal graph neural networks for multi-site PV power forecasting
   </span>
 </div>
+
+This code was developed for research purposes during my undergraduate studies at IIMAS-UNAM in 2022. I was responsible for its implementation under the supervision of Dr. Miguel Arturo Ballesteros Montero.
